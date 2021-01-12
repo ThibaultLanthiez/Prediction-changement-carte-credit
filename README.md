@@ -12,9 +12,9 @@ L'objectif était de classer les clients selon leur appétences à monter en gam
 
 Pour que la machine apprenne à déterminer si un client va monter en gamme ou non, il faut des données. Pour cela, j'avais accès à l'immense base de données du Crédit Agricole. J'ai passé la majorité de mon temps dans l'extraction des données, le pré-traitement et la sélection de variables à l'aide de requêtes SQL. 
 
-Puis un data scientist du service s'est chargé de la création du modèle. 
+Puis un data scientist du service s'est chargé de la création du modèle. Ce modèle de classification binaire est un arbre de décision.
 
-Les résultats de la classification sont les suivants. Avant, le Crédit Agricole contactait 80% de ses clients pour promouvoir une monté en gamme de leur carte de crédit. Cependant à la suite de ces contacts seulement 2% montés effectivement en gamme. Grace mon modèle, le Crédit Agricole Normandie-Seine à pu doubler les montés en gamme et cela en ne contactant seulement 20% de ses clients. Ces 20% correspondent aux clients dont le modèle leur donne la plus forte probabilité de monter en gamme leur carte.
+Les résultats de la classification sont les suivants. Avant, en contactant 20% de ses clients de fonction arbitraire le Crédit Agricole, seulement 2% d'entre eux montés effectivement en gamme. Grace au modèle, le Crédit Agricole Normandie-Seine à pu plus que doubler ces montés en gamme car en contactant 20% des clients ayant le plus haut pour ce modèle, 5% d'entre eux montent effectivement en gamme. 
 
 # Code
 Pour des problèmes évidents de confidentialité, les programmes utilisés dans le cadre du stage ne sont pas joints à cette page.  
