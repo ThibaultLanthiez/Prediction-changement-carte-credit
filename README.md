@@ -10,7 +10,7 @@ Ce stage a duré 10 semaines, d'avril à juin 2019. Durant cette période, deux 
 
 L'objectif était de classer les clients selon leur appétence à monter en gamme leur carte de crédit. On appelle cela faire un scoring client. 
 
-Pour que la machine apprenne à déterminer si un client va monter en gamme ou non, il faut des données. Pour cela, j'avais accès à l'immense base de données du Crédit Agricole. J'ai passé la majorité de mon temps dans l'extraction des données, le prétraitement et la sélection de variables, à l'aide de requêtes SQL. 
+J'avais accès à l'immense base de données du Crédit Agricole. J'ai passé la majorité de mon temps dans l'extraction des données, le prétraitement et la sélection de variables, à l'aide de requêtes SQL. 
 
 Puis un data scientist du service s'est chargé de la création du modèle. Ce modèle de classification binaire est basé sur un arbre de décision.
 
