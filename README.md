@@ -2,7 +2,7 @@
 
 <img src="https://www.femmesetchallenges.fr/wp-content/uploads/2019/08/cans-sans-signature-recadre-300x240.png" width="20%" and height="20%"/>
 
-# Prédiction de changement de carte de crédit des clients
+# Prédiction de changement de carte de crédit
 
 J'ai effectué mon stage de fin de DUT STID à la caisse régionale du Crédit Agricole Normandie-Seine, situé à Rouen (76). Le service dans lequel j'étais était en charge de la relation du Crédit Agricole avec ses clients. Chaque mois, ils envoyaient des mails, sms, courriers à leurs clients afin de promouvoir le Crédit Agricole et ses services. 
 
