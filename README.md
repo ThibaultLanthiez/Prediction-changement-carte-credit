@@ -12,9 +12,9 @@ L'objectif était de classer les clients selon leur appétence à monter en gamm
 
 J'avais accès à l'immense base de données du Crédit Agricole. J'ai passé la majorité de mon temps dans l'extraction des données, le prétraitement et la sélection de variables, à l'aide de requêtes SQL. 
 
-Puis un data scientist du service s'est chargé de la création du modèle. Ce modèle de classification binaire est basé sur un arbre de décision.
+Puis un Data Scientist du service s'est chargé de la création du modèle. Ce modèle de classification binaire est basé sur un arbre de décision.
 
-Avant mon arrivé, le Crédit Agricole ciblé déjà ses clients en fonction de leur score obtenu avec un modèle donné pour la société MasterCard. Cependant, ce modèle pouvait être grandement amélioré. Et ce fut le cas. En effet, avec le modèle que nous avons développé, en contactant seulement 20% des clients ayant les plus hauts scores pour ce modèle, 60% d'entre eux ont effectivement monté en gamme leur carte de crédit. 
+Avant mon arrivé, le Crédit Agricole ciblé déjà ses clients en fonction de leur score obtenu par un modèle. Ce modèle a été créé par la société MasterCard. Cependant, ce modèle pouvait être grandement amélioré. Et ce fut le cas. En effet, avec le modèle que nous avons développé, en contactant seulement 20% des clients ayant les plus hauts scores pour ce modèle, 60% d'entre eux ont effectivement monté en gamme leur carte de crédit. 
 
 # Code
 
