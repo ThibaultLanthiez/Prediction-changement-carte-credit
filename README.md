@@ -8,7 +8,7 @@ J'ai effectué mon stage de fin de DUT STID à la caisse régionale du Crédit A
 
 Ce stage a duré 10 semaines, d'avril à juin 2019. Durant cette période, deux missions m'ont été confiées, je vais vous présenter la deuxième mission qui a duré plus d'un mois.
 
-L'objectif était de classer les clients selon leur appétence à monter en gamme leur carte de crédit. En machine learning, ce type de problème se nomme classification supervisée. 
+L'objectif était de classer les clients selon leur appétence à monter en gamme leur carte de crédit. On appelle cela faire un scoring client. 
 
 Pour que la machine apprenne à déterminer si un client va monter en gamme ou non, il faut des données. Pour cela, j'avais accès à l'immense base de données du Crédit Agricole. J'ai passé la majorité de mon temps dans l'extraction des données, le prétraitement et la sélection de variables, à l'aide de requêtes SQL. 
 
